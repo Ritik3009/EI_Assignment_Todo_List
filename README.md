@@ -1,4 +1,4 @@
-# EL_Assignment_Todo_List
+# EI_Assignment_Todo_List
 
 A simple Java-based To-Do List Manager that allows users to add tasks, mark them as completed, and delete them. Users can also view tasks filtered by completion status and utilize undo and redo functionality.
 
