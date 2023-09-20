@@ -33,7 +33,7 @@ A simple Java-based To-Do List Manager that allows users to add tasks, mark them
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/todo-list-manager.git
+   https://github.com/Ritik3009/EL_Assignment_Todo_List.git
 
 2. Compile the Java code:
 
